@@ -33,12 +33,13 @@ FunColor supports the development of:
 - **Genre:** Educational / Casual / Kids Coloring Game
 
 ## Screenshots
-![Screenshot 1](FunColor_GitHub/screenshots/screen1.png)
-![Screenshot 2](FunColor_GitHub/screenshots/screen2.png)
-![Screenshot 3](FunColor_GitHub/screenshots/screen3.png)
-![Screenshot 4](FunColor_GitHub/screenshots/screen4.png)
-![Screenshot 5](FunColor_GitHub/screenshots/screen5.png)
-![Screenshot 6](FunColor_GitHub/screenshots/screen6.png)
+
+[![Screenshot 1](FunColor_GitHub/screenshots/screen1.jpg)](FunColor_GitHub/screenshots/screen1.jpg)
+[![Screenshot 2](FunColor_GitHub/screenshots/screen2.jpg)](FunColor_GitHub/screenshots/screen2.jpg)
+[![Screenshot 3](FunColor_GitHub/screenshots/screen3.jpg)](FunColor_GitHub/screenshots/screen3.jpg)
+[![Screenshot 4](FunColor_GitHub/screenshots/screen4.jpg)](FunColor_GitHub/screenshots/screen4.jpg)
+[![Screenshot 5](FunColor_GitHub/screenshots/screen5.jpg)](FunColor_GitHub/screenshots/screen5.jpg)
+[![Screenshot 6](FunColor_GitHub/screenshots/screen6.jpg)](FunColor_GitHub/screenshots/screen6.jpg)
 
 ## Note
 The source code is private.  
