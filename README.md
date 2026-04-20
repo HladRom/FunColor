@@ -1,7 +1,7 @@
 
 # FunColor
 
-[![Screenshot 1](FunColor_GitHub/2.0.png)](FunColor_GitHub/2.0.png)
+[![Screenshot 1](FunColor_GitHub/1024x576.jpg)](FunColor_GitHub/1024x576.jpg)
 
 FunColor is a coloring game for kids and toddlers, designed as a fun and educational drawing app for Android.
 
